@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/newfs.dir/main.cpp.o CMakeFiles/newfs.dir/bitmap.cpp.o CMakeFiles/newfs.dir/init.cpp.o  -o newfs -rdynamic 
