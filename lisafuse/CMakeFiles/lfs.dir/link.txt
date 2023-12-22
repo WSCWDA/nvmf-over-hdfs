@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/lfs.dir/rewrite.c.o  -o lfs -rdynamic 
